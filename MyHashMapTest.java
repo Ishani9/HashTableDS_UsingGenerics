@@ -1,7 +1,6 @@
 package com.bl.assignment;
 
 import org.junit.Test;
-import static org.junit.Assert.*;
 import org.junit.Assert;
 
 public class MyHashMapTest {
